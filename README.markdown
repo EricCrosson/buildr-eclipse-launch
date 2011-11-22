@@ -5,7 +5,7 @@ This project extends Buildr's default Eclipse task to generate .launch configura
 
 To enable add the following in your Gemfile:
 
-    gem "buildr-eclipse-launch", "0.0.0", :git => "git://github.com/niclabs/buildr-eclipse-launch.git"
+    gem "buildr-eclipse-launch", :git => "git://github.com/niclabs/buildr-eclipse-launch.git"
 
 Then, run
 
