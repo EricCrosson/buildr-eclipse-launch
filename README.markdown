@@ -11,7 +11,7 @@ Then, run
 
     bundle install
     
-Finally add to the following at the top of your `buildfile`
+Finally add the following at the top of your `buildfile`
 
     require 'buildr-eclipse-launch'
 
