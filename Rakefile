@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "buildr-eclipse-launch"
   gem.homepage = "http://github.com/mleyton/buildr-eclipse-launch"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "mario@leyton.cl"
+  gem.summary = %Q{Provides Eclipse .launch creation}
+  gem.description = %Q{Extends Apache's Buildr to create Eclipse .launch configurations}
+  gem.email = "mleyton@niclabs.cl"
   gem.authors = ["Mario Leyton"]
   # dependencies defined in Gemfile
 end

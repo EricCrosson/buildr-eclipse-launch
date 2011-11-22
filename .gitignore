@@ -22,7 +22,7 @@ pkg
 #
 # After doing this, these files will be ignored in all your git projects,
 # saving you from having to 'pollute' every project you touch with them
-#
+
 # Not sure what to needs to be ignored for particular editors/OSes? Here's some ideas to get you started. (Remember, remove the leading # of the line)
 #
 # For MacOS:
@@ -46,3 +46,10 @@ pkg
 
 # For rubinius:
 #*.rbc
+
+# Eclipse
+.project
+.classpath
+.buildpath
+
+Gemfile.lock
