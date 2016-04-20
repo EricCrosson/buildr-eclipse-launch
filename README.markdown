@@ -1,7 +1,7 @@
 Buildr Eclipse Launch
-================
+=====================
 
-This project extends Buildr's default Eclipse task to generate .launch configurations
+This project extends [Apache Buildr]'s default [Eclipse] task to generate .launch configurations
 
 To enable add the following in your `Gemfile`:
 
@@ -20,3 +20,6 @@ Finally add the following at the top of your `buildfile`
 Mario Leyton
 
 NIC Chile Research Labs
+
+[Apache Buildr]: https://buildr.apache.org/
+[Eclipse]: https://eclipse.org/downloads/
