@@ -8,7 +8,7 @@ Install
 
 To enable add the following in your `Gemfile`:
 
-    gem "buildr-eclipse-launch", :git => "git://github.com/niclabs/buildr-eclipse-launch.git"
+    gem "buildr-eclipse-launch", :git => "git://github.com/EricCrosson/buildr-eclipse-launch.git"
 
 Then, run
 
