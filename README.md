@@ -1,5 +1,6 @@
 Buildr Eclipse Launch
 =====================
+[![GitHub version](https://badge.fury.io/gh/ericcrosson%2Fbuildr-eclipse.svg)](https://badge.fury.io/gh/ericcrosson%2Fbuildr-eclipse)
 
 This project extends [Apache Buildr]'s default [Eclipse] task to generate .launch configurations
 
